@@ -1,0 +1,23 @@
+ImagePath,Type,ImageShape,ImageSize,Herbarium,Bord,Phyllotaxie,TypeFeuille,Ligneux,binaryBord,binaryPhyllotaxie,binaryTypeFeuille,binaryLigneux
+Transformed_Dataset\Test\amborella\amborella072.jpg,Test,"(512, 512, 3)",786432,amborella,lisse,alterné,simple,oui,0,1,0,1
+Transformed_Dataset\Test\amborella\amborella073.jpg,Test,"(512, 512, 3)",786432,amborella,lisse,alterné,simple,oui,0,1,0,1
+Transformed_Dataset\Test\castanea\castarea071.jpg,Test,"(512, 512, 3)",786432,castanea,denté,alterné,simple,oui,1,1,0,1
+Transformed_Dataset\Test\castanea\castarea077.jpg,Test,"(512, 512, 3)",786432,castanea,denté,alterné,simple,oui,1,1,0,1
+Transformed_Dataset\Test\convolvulaceae\convolvulaceae077.jpg,Test,"(512, 512, 3)",786432,convolvulaceae,lisse,alterné,simple,non,0,1,0,0
+Transformed_Dataset\Test\convolvulaceae\convolvulaceae079.jpg,Test,"(512, 512, 3)",786432,convolvulaceae,lisse,alterné,simple,non,0,1,0,0
+Transformed_Dataset\Test\desmodium\desmodium072.jpg,Test,"(512, 512, 3)",786432,desmodium,lisse,alterné,composée,non,0,1,1,0
+Transformed_Dataset\Test\desmodium\desmodium075.jpg,Test,"(512, 512, 3)",786432,desmodium,lisse,alterné,composée,non,0,1,1,0
+Transformed_Dataset\Test\eugenia\eugenia072.jpg,Test,"(512, 512, 3)",786432,eugenia,lisse,opposé,simple,oui,0,0,0,1
+Transformed_Dataset\Test\eugenia\eugenia077.jpg,Test,"(512, 512, 3)",786432,eugenia,lisse,opposé,simple,oui,0,0,0,1
+Transformed_Dataset\Test\laurus\laurus071.jpg,Test,"(512, 512, 3)",786432,laurus,lisse,opposé,simple,oui,0,0,0,1
+Transformed_Dataset\Test\laurus\laurus080.jpg,Test,"(512, 512, 3)",786432,laurus,lisse,opposé,simple,oui,0,0,0,1
+Transformed_Dataset\Test\litsea\litsea074.jpg,Test,"(512, 512, 3)",786432,litsea,lisse,alterné,simple,oui,0,1,0,1
+Transformed_Dataset\Test\litsea\litsea077.jpg,Test,"(512, 512, 3)",786432,litsea,lisse,alterné,simple,oui,0,1,0,1
+Transformed_Dataset\Test\magnolia\magnolia075.jpg,Test,"(512, 512, 3)",786432,magnolia,lisse,alterné,simple,oui,0,1,0,1
+Transformed_Dataset\Test\magnolia\magnolia077.jpg,Test,"(512, 512, 3)",786432,magnolia,lisse,alterné,simple,oui,0,1,0,1
+Transformed_Dataset\Test\monimiaceae\monimiaceae073.jpg,Test,"(512, 512, 3)",786432,monimiaceae,lisse,opposé,simple,oui,0,0,0,1
+Transformed_Dataset\Test\monimiaceae\monimiaceae079.jpg,Test,"(512, 512, 3)",786432,monimiaceae,lisse,opposé,simple,oui,0,0,0,1
+Transformed_Dataset\Test\rubus\rubus075.jpg,Test,"(512, 512, 3)",786432,rubus,denté,alterné,composée,oui,1,1,1,1
+Transformed_Dataset\Test\rubus\rubus077.jpg,Test,"(512, 512, 3)",786432,rubus,denté,alterné,composée,oui,1,1,1,1
+Transformed_Dataset\Test\ulmus\ulmus077.jpg,Test,"(512, 512, 3)",786432,ulmus,denté,alterné,simple,oui,1,1,0,1
+Transformed_Dataset\Test\ulmus\ulmus078.jpg,Test,"(512, 512, 3)",786432,ulmus,denté,alterné,simple,oui,1,1,0,1
